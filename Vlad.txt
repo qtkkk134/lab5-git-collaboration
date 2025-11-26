@@ -1,4 +1,7 @@
 Vlad
 Teammate 1
 Teammate 2
+ feature-friend
 Изменение от друга
+Изменение от 1
+
